@@ -1,4 +1,4 @@
-# task3
+# User Login & Signup System with Authentication
 # Backend for user register/login system with authentication using jwt.
 This project is a user/login system that allows users to login by using their ceredentials.
 It authenticates the user ceredentials by using json web tokens in middleware.
